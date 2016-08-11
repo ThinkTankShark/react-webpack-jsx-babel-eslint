@@ -1,9 +1,5 @@
 # react-webpack-jsx-babel-eslint
-A React skeleton using Webpack, Babel, JSX and Airbnb ESlint
-
-# react-webpack-babel
-Simple React Webpack Babel Starter Kit
-
+A React skeleton using Webpack, Babel, JSX and Airbnb ESlint Starter Kit
 
 This is a simple [React](https://facebook.github.io/react/), [Webpack](http://webpack.github.io/) and [Babel](https://babeljs.io/) application with nothing else in it.
 
